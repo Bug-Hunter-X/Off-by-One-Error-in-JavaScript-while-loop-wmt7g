@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in JavaScript while loops. The bug.js file contains the erroneous code, while bugSolution.js provides a corrected version.  The error stems from an incorrect loop condition or counter manipulation, leading to unexpected behavior.
